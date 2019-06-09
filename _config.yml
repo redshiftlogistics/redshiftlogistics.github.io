@@ -7,7 +7,7 @@ description: "Redshift Logistics"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#CC0000'
+  links: '#D5205E'
 
 # Footer settings
 footer: Redshift Logistics
