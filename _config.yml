@@ -9,6 +9,16 @@ color:
   primary-dark: '#000000'
   links: '#D5205E'
 
+# Images
+images:
+  icon: ''
+  header: 'https://cdn.discordapp.com/attachments/565682402878554112/566604662510190602/save.png'
+  logistics: ''
+  mining: 'https://cdn.discordapp.com/attachments/565682402878554112/566647460450009098/IMG_a38f4408-95c4-4759-a08d-563d34f65a5f.png'
+  security: ''
+  join-us: 'https://cdn.discordapp.com/attachments/565682402878554112/588401080581226517/IMG_cdd4afe4-95df-4bb2-b072-368b5713a55b.png'
+  about-us: ''
+  contact-us: 'https://cdn.discordapp.com/attachments/565682402878554112/588402062526775299/IMG_997ef5a2-19c5-4b8c-adbf-ce78509c2638.png'
 # Footer settings
 footer: Redshift Logistics
 
