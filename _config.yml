@@ -2,7 +2,7 @@
 title: Redshift Logistics
 email: contact@redshiftlogistics.online
 url: https://redshiftlogistics.online/index.html
-description: "Redshift Logistics is an independant corporation founded in 3270. We provide an array of services for clients whilst running our operations."
+description: "Redshift Logistics is an independant corporation founded in 3270. We provide an array of services for clients whilst running our own operations."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -19,6 +19,7 @@ images:
   join-us: 'https://cdn.discordapp.com/attachments/565682402878554112/588401080581226517/IMG_cdd4afe4-95df-4bb2-b072-368b5713a55b.png'
   about-us: ''
   contact-us: 'https://cdn.discordapp.com/attachments/565682402878554112/588412010539122700/IMG_20925bf0-dc4b-4bbd-b20a-c722567379b8.png'
+
 # Footer settings
 footer: Redshift Logistics
 
