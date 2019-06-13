@@ -316,6 +316,7 @@ a:focus {
     -o-background-size: cover;
 }
 
+/*
 .download-section {
     width: 100%;
     padding: 50px 0;
@@ -327,6 +328,7 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
+*/
 
 #map {
     width: 100%;
