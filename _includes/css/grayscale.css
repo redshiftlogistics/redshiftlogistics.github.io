@@ -88,6 +88,11 @@ a:focus {
     outline: 0;
 }
 
+.nav-bar-custom icon-image {
+  object-fit: contain;
+  overflow: hidden;
+}
+
 .navbar-custom a {
     color: #fff;
 }
