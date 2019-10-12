@@ -152,6 +152,10 @@ a:focus {
     -o-background-size: cover;
 }
 
+.intro .wiki {
+    background: "";
+}
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
