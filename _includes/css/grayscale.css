@@ -326,6 +326,18 @@ a:focus {
     -o-background-size: cover;
 }
 
+.about-us {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url({{ site.images.about-us }}) no-repeat center center scroll;
+    background-color: {{ site.color.primary-dark }};
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 /*
 .download-section {
     width: 100%;
