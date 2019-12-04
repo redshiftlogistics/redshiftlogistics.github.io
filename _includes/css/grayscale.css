@@ -92,6 +92,7 @@ a:focus {
 .nav-bar-custom icon-image {
   object-fit: contain;
   overflow: hidden;
+  background-image: background: url({{ site.images.icon }}) no-repeat center center scroll;
 }
 
 .navbar-custom a {
