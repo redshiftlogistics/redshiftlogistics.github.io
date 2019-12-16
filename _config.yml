@@ -7,7 +7,7 @@ description: "Redshift Logistics is an independant corporation founded in 3270. 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  primary-dark-complimentary: '#97073a'
+  primary-dark-complimentary: '#6c0529'
   links: '#D5205E'
 
 # Images
