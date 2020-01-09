@@ -13,13 +13,13 @@ color:
 # Images
 images:
   icon: 'https://cdn.discordapp.com/attachments/650862830278672447/651750570125819914/icon_512_A2Z_3.png'
-  header: 'https://cdn.discordapp.com/attachments/650862830278672447/650863904137674760/2019-12-02-00-57-33.jpg'
-  logistics: 'https://cdn.discordapp.com/attachments/650862830278672447/650863902510546944/2019-12-02-01-00-08.jpg'
-  mining: 'https://cdn.discordapp.com/attachments/650862830278672447/651569400398348308/2019-12-03-23-43-53.jpg'
-  security: 'https://cdn.discordapp.com/attachments/650862830278672447/651570148561649723/2019-12-03-23-46-52.jpg'
+  header: 'https://cdn.discordapp.com/attachments/565682402878554112/566604662510190602/save.png'
+  logistics: 'https://cdn.discordapp.com/attachments/565682402878554112/648429941834383370/24-11-2019_10-55-48-nzsvburm.png'
+  mining: 'https://cdn.discordapp.com/attachments/565682402878554112/609875699074859018/IMG_af68eb89-fc9d-4d8d-8eaa-8df9b83ebc49.png'
+  security: 'https://cdn.discordapp.com/attachments/565682402878554112/566418787893641227/IMG_c5d9173b-be09-451a-b76f-a030df3f4ea5.png'
   join-us: 'https://cdn.discordapp.com/attachments/650862830278672447/650863903210864653/2019-12-02-00-59-40.jpg'
   about-us: ''
-  contact-us: 'https://cdn.discordapp.com/attachments/650862830278672447/650863903210864656/2019-12-02-00-58-09.jpg'
+  contact-us: 'https://cdn.discordapp.com/attachments/565682402878554112/588462328555765780/image1.png'
 
 # Footer settings
 footer: Redshift Logistics
