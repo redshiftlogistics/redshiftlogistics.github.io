@@ -1,42 +1,44 @@
-# Site settings
-title: Redshift Logistics
+# site settings
+title: Redshift
+subtitle: Logistics
 email: contact@redshiftlogistics.online
-url: https://redshiftlogistics.online/index.html
-description: "Redshift Logistics is an independant corporation founded in 3270. We provide an array of services for clients whilst running our own operations."
+description: An independent corporation founded in 3272<br /> based out of the center of the bubble.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: https://redshiftlogistics.online # the base hostname & protocol for your site
+author: Redshift Logistics
+street_address: Unit 11 Deck 24
+city: Dobrovolskiy Enterprise
+state: WISE 1506+7027
+zip_code:
+country:
+#phone:
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary-dark: '#000000'
-  primary-dark-complimentary: '#6c0529'
-  links: '#D5205E'
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
-# Images
-images:
-  icon: 'https://cdn.discordapp.com/attachments/650862830278672447/651750570125819914/icon_512_A2Z_3.png'
-  header: 'https://cdn.discordapp.com/attachments/565682402878554112/566604662510190602/save.png'
-  logistics: 'https://cdn.discordapp.com/attachments/565682402878554112/591777698582495237/IMG_0fbc07e5-5c19-40e2-9cc4-b178f608fcce.png'
-  mining: 'https://cdn.discordapp.com/attachments/565682402878554112/609875699074859018/IMG_af68eb89-fc9d-4d8d-8eaa-8df9b83ebc49.png'
-  security: 'https://cdn.discordapp.com/attachments/565682402878554112/566418787893641227/IMG_c5d9173b-be09-451a-b76f-a030df3f4ea5.png'
-  join-us: 'https://cdn.discordapp.com/attachments/565682402878554112/649674271282429952/28-11-2019_17-27-15-vrwnomaa.png'
-  about-us: ''
-  contact-us: 'https://cdn.discordapp.com/attachments/565682402878554112/628277642214244376/28-09-2019_11-50-01-ofdtfjqc.png'
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
 
-# Footer settings
-footer: Redshift Logistics
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-#social:
-#  - title: twitter
-#    url: https://twitter.com/rlog_elite
-#  - title: facebook
-#    url:
-#  - title: stack-overflow
-#    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket
-#    url: http://bitbucket.org/jekyll
-#  - title: github
-#    url: https://github.com/IronSummitMedia/startbootstrap
-
-# Build settings
+# build settings
 markdown: kramdown
-permalink: pretty
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+sass:
+  style: compressed
