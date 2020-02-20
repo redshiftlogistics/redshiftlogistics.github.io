@@ -34,9 +34,6 @@ show_tile: false
 				<p><i>We aim to help each and every member that joins us and get them to the point of autonomy. We constantly look to help others and improve ourselves through our own community feedback.</i></p>
 
 				<p>Our HR team maintains a healthy community and upholds our community rules and guidelines.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -50,9 +47,6 @@ show_tile: false
 					<h3>Superpower Neutrality</h3>
 				</header>
 				<p>We respect all our staffs origins and we will not discriminate based on superpower affiliation. Redshift Logistics is no longer Empire owned and is open to Alliance, Federation and Independent supporters.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
