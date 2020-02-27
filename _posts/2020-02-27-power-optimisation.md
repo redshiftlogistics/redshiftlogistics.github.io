@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimising Ship Power Output
+title: Optimising Powerplant Output
 description: null
 image: https://cdn.discordapp.com/attachments/678270161995956225/682640538171998272/latest.png
 show_tile: false
