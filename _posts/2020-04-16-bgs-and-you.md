@@ -21,7 +21,7 @@ These actions all **hurt our influence** in systems **where we are present and n
 - Selling commodities at Redshift controlled stations
 - Selling exploration data at Redshift controlled stations
 - Completing missions for Redshift Logistics and prioritising high influence rewards
-- Handing in bounty vouchers for Redshift logistics _(be sure to check which faction vouchers belong to in your transactions panel)_
+- Handing in bounty vouchers for Redshift Logistics _(be sure to check which faction vouchers belong to in your transactions panel)_
 
 While this may all seem rather restrictive, do keep in mind that this only applies to systems where our faction is present. Assuming you are in an unrelated system then you are free to do as you please.
 
