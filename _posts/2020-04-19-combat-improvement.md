@@ -14,7 +14,6 @@ This guide covers the fundamentals every pilot should be aware of when entering 
 There are many different types of weapons at your disposal, however keep your fire groups in mind when choosing which weaponry to equip. You don’t want to have a build which is unnecessarily complicated, otherwise certain weapons may end up being forgotten about and never used.
 
 Keep in mind the purpose of your ship, what you need it to do, as well as picking weapons that complement each other.
-
 If your ship has mostly thermal damage, consider something kinetic or maybe even explosive.
 Take into account the strengths & weaknesses of different weapons, think about how they will work with each other, as well as your ship.
 
