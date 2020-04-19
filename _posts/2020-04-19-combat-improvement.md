@@ -8,7 +8,6 @@ author: CMDR Tenacious C
 ---
 
 ## Weapon harmony
-
 There are many different types of weapons at your disposal, however keep your fire groups in mind when choosing which weaponry to equip. You don’t want to have a build which is unnecessarily complicated, otherwise certain weapons may end up being forgotten about and never used.
 
 Keep in mind the purpose of your ship, what you need it to do, as well as picking weapons that complement each other.
