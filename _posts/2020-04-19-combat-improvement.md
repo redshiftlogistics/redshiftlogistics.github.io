@@ -80,7 +80,7 @@ Who would you go for first? Clearly the Python is a bigger threat than the other
 
 Do you...
 
-1. Eliminate the Eagles first, making it a 1 on 1 fighter, however let the Python take the advantage on you?
+1. Eliminate the Eagles first, making it a 1 on 1 fight, however let the Python take the advantage on you?
 2. Or do you ignore the Eagles, letting them attack you throughout the fight, assuming they won’t be able to do too much harm, while you take the advantage on the Python?
 
 There is no right or wrong answer, even now it’s hard to say, just looking at this as text. One would need to be in that situation themselves to truly understand the odds. Then of course, there’s also option 3. Do not engage. Find a different target. If you’re not comfortable answering
@@ -120,4 +120,4 @@ _Be sure to read our short guide on [powerplant optimisation](https://redshiftlo
 
 This concludes my combat self-improvement guide; I hope you found it helpful. Remember, the most important thing in all of this is your ship positioning, as covered in the fighting styles segment. Avoiding damage is just as good as, if not better, than tanking it.
 
-If you have any questions then please do not hesitate to get in touch on discord, whichever most relates to your question.
+If you have any questions then please do not hesitate to get in touch on discord.
