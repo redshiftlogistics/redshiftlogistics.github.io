@@ -7,7 +7,10 @@ show_tile: true
 author: CMDR Tenacious C
 ---
 
+This guide covers the fundamentals every pilot should be aware of when entering into a combat engagement. This guide assumes the reader has completed all the basic combat training and/or has around 10 hours combat flight time.
+
 ## Weapon harmony
+
 There are many different types of weapons at your disposal, however keep your fire groups in mind when choosing which weaponry to equip. You don’t want to have a build which is unnecessarily complicated, otherwise certain weapons may end up being forgotten about and never used.
 
 Keep in mind the purpose of your ship, what you need it to do, as well as picking weapons that complement each other.
@@ -111,8 +114,9 @@ Hull isn’t everything though, your modules will take damage too, without the p
 
 NPC’s (non-player characters) will never target specific modules on your ship, so any which do take significant damage is purely a coincidence. However you do not need to behave the same, you can target specific modules on their ship to hinder their abilities. Targeting & destroying their thrusters for example will cause them to lose control of their ship, forcing them to drift off into space. Destroying their shield generator will... You guessed it, completely shutdown their shields. And so on, and so forth for each different module on their ship. You blow it up, they can’t use it anymore. But as I said, the same goes for you. So keep your modules safe.
 
-To target specific modules, you can either select a target ship, then pick which module to target in your left panel, or assign a button to cycle through their modules, stopping once you have the one selected which you want. A popular choice is the powerplant, destroying the powerplant of a ship can often be a shortcut to killing it, without needing to take their hull all the way down to 0%. Once the powerplant reaches 0%, keep shooting it. Each shot past 0% has a small chance to cause their ship to immediately self destruct.  
-_editors note: be sure to read our short guide on [powerplant optimisation](https://redshiftlogistics.online/2020/02/27/optimising-powerplant-output.html)_
+To target specific modules, you can either select a target ship, then pick which module to target in your left panel, or assign a button to cycle through their modules, stopping once you have the one selected which you want. A popular choice is the powerplant, destroying the powerplant of a ship can often be a shortcut to killing it, without needing to take their hull all the way down to 0%. Once the powerplant reaches 0%, keep shooting it. Each shot past 0% has a small chance to cause their ship to immediately self destruct.
+
+_Be sure to read our short guide on [powerplant optimisation](https://redshiftlogistics.online/2020/02/27/optimising-powerplant-output.html)._
 
 This concludes my combat self-improvement guide; I hope you found it helpful. Remember, the most important thing in all of this is your ship positioning, as covered in the fighting styles segment. Avoiding damage is just as good as, if not better, than tanking it.
 
