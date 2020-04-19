@@ -34,7 +34,7 @@ With this in mind, it is clear that the medium hardpoints have a limited firing 
 
 ## Fighting styles
 
-As seen previously, the Viper Mk3 is incredibly fast & maneuverable, meaning it should easily be able to maintain a high time on target, while also being able to dodge shots & stay in your opponent's blind spots.
+As seen previously, the Viper Mk3 is incredibly fast & manoeuvrable, meaning it should easily be able to maintain a high time on target, while also being able to dodge shots & stay in your opponent's blind spots.
 
 With a high time on target you will get full value out of any continuous or rapid-fire weaponry, such as lasers, or multicannons. Or alternatively you could use high damage, low fire-rate weapons while spending the time in between firing to dodge shots from your opponent. Just keep in mind the small power distributor, this will limit your capacity for continuous fire, making the second option a more appealing choice if you want high damage.
 
@@ -93,7 +93,7 @@ Managing your pips is certainly useful, however don’t worry too much about it 
 Proper pip management can give you some big advantages, especially in under-dog situations. However, first, just to ensure everybody is on the same page, here is a rundown of what pips do.
 
 - Having pips in SYS (Systems) directly corresponds to the strength of your shields, having 4 pips in SYS will increase the strength of your shields by 2.5x against all sources, including absolute damage; without affecting regen rate. SYS is also responsible for providing power to countermeasures,  such as Chaff, ECM & Point Defense Turrets (PDT). So even if you don’t care about your shields, keeping some in your SYS capacitor is crucial to defending yourself.
-- ENG (Engines) directly corresponds to your maximum speed, supposedly it also affects the strength of your boost, though I’ve seen nothing to support this. The main purpose of ENG is to let you reach higher speeds & increase the speed of the blue zone on your throttle, which is the point your ship is most maneuverable (50%). Obviously, you also need to have power in the ENG capacitor in order to boost.
+- ENG (Engines) directly corresponds to your maximum speed, supposedly it also affects the strength of your boost, though I’ve seen nothing to support this. The main purpose of ENG is to let you reach higher speeds & increase the speed of the blue zone on your throttle, which is the point your ship is most manoeuvrable (50%). Obviously, you also need to have power in the ENG capacitor in order to boost.
 - WEP (Weapons) unlike the other two, having pips in WEP doesn’t provide any advantage besides keeping your capacitor charged; it doesn’t increase weapon damage in any way. So if you’re using weapons with a low distributor draw, don’t be afraid to leave 0 pips in WEP for short periods of time, then recharge it when convenient (such as after passing the target while jousting). Although do keep in mind that your weapons will generate much more heat as your WEP capacitor gets closer to the bottom, so in hotter builds it’s best to keep it above 30% charge at all times, otherwise you’ll risk overheating.
 
 ## Shields, hull & modules
