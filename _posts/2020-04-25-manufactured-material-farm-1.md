@@ -21,7 +21,7 @@ Once at Hyades Sector DR-V C2-23, scan the system and begin moving towards plane
 
 ![](https://cdn.discordapp.com/attachments/678270161995956225/701422998040870973/17-04-2020_10-10-35-ytacfqkg.png)
 
-If you have visited before you should be able to see a new entry on your left side nav menu for the "Davs Hope". If not then approach the planet slowly, use your detailed surface scanner to drop a probe onto the planet surface and begin your approach towards the co-ordinates 44.8180, -31.3893.
+If you have visited before you should be able to see a new entry on your left side navigation menu for "Davs Hope". If not then approach the planet slowly, use your detailed surface scanner to drop a probe onto the planet surface and begin your approach towards the co-ordinates 44.8180, -31.3893.
 
 If you haven't visited before this can take a little while to locate, this should be the one and only time you will have to locate it in this way.
 
@@ -62,6 +62,6 @@ If you want to optimise you're gathering for trading up or down for other materi
 
 ![](https://cdn.discordapp.com/attachments/678270161995956225/703402888717926471/codAVuF.png)
 
-If you want to trade any of these materials up or down, the closest material trader is 42.91 LY away at **Vaucanson Gateway in HIP 12067**. It's recommended to trade any common materials away at the material trader if you're going to be doing a few return trips.
+The closest material trader is 42.91 LY away at **Vaucanson Gateway in HIP 12067**. It's recommended to trade any common materials away at the material trader if you're going to be doing a few return trips.
 
 Fly safe o7
