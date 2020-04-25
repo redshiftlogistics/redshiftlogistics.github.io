@@ -58,7 +58,7 @@ The full list of materials that drop here:
 - Shield Emitters
 - Shielding Sensors
 
-If you want to optimise you're gathering specifically for chemical manipulators for trading up or down for other materials, use the below map and route instead.
+If you want to optimise you're gathering for trading up or down for other materials, use the below map and route instead.
 
 ![](https://cdn.discordapp.com/attachments/678270161995956225/703402888717926471/codAVuF.png)
 
