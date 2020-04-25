@@ -21,7 +21,7 @@ Once at Hyades Sector DR-V C2-23, scan the system and begin moving towards plane
 
 ![](https://cdn.discordapp.com/attachments/678270161995956225/701422998040870973/17-04-2020_10-10-35-ytacfqkg.png)
 
-If you have visited before you should be able to see a new entry on your left side navigation menu for "Davs Hope". If not then approach the planet slowly, use your detailed surface scanner to drop a probe onto the planet surface and begin your approach towards the co-ordinates 44.8180, -31.3893.
+If you have visited before you should be able to see an entry on your left side navigation menu for "Davs Hope". If not then approach the planet slowly, use your detailed surface scanner to drop a probe onto the planet surface and begin your approach towards the co-ordinates 44.8180, -31.3893.
 
 If you haven't visited before this can take a little while to locate, this should be the one and only time you will have to locate it in this way.
 
