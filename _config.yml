@@ -2,7 +2,7 @@
 title: Redshift
 subtitle: Logistics
 email: contact@redshiftlogistics.online
-description: An independent corporation founded in 3272<br /> based out of the center of the bubble.
+description: Providing services to our customers since 3272, <br /> based out of the center of the bubble.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://redshiftlogistics.online # the base hostname & protocol for your site
 author: Redshift Logistics
@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+500px_url: https://cdn.discordapp.com/attachments/650862830278672447/651750570125819914/icon_512_A2Z_3.png
 facebook_url:
 github_url:
 gitlab_url:
