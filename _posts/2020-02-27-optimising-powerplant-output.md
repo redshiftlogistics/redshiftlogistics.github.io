@@ -7,7 +7,7 @@ show_tile: true
 author: CMDR Payload and CMDR Tenacious C
 ---
 
-Optimising your ships power output with some extra priority configuration seems daunting at first, but here's a template for your power output needs. This configuration is for a general purpose combat multirole ships which can be tweaked to suit your needs. Smuggling ships for instance, will want a different setup entirely.
+Optimising your ships power output with some extra priority configuration seems daunting at first, but here's a template for your power output needs. This configuration is for general purpose combat multirole ships which can be tweaked to suit your needs. Smuggling ships for instance, will want a different setup entirely.
 
 Modules with the lower number are a higher priority whereas modules with a higher number are of a lower priority. This means that if you begin using weapon modules when you deploy your hardpoints, modules of a lower priority will shutdown to save power. Who needs a docking computer mid combat right?
 
