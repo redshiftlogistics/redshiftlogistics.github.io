@@ -3,7 +3,7 @@ title: Redshift
 subtitle: Logistics
 email: contact@redshiftlogistics.online
 description: Providing services to our customers since 3272, <br /> based out of the center of the bubble.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://redshiftlogistics.online # the base hostname & protocol for your site
 author: Redshift Logistics
 street_address: Unit 11 Deck 24
@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url: https://cdn.discordapp.com/attachments/650862830278672447/651750570125819914/icon_512_A2Z_3.png
+500px_url: 
 facebook_url:
 github_url:
 gitlab_url:
