@@ -11,6 +11,7 @@ city: Dobrovolskiy Enterprise
 state: WISE 1506+7027
 zip_code:
 country:
+logo-image: https://cdn.discordapp.com/attachments/650862830278672447/721708109726220328/icon_108_A2Z.png
 #phone:
 
 # homepage tiles
@@ -18,7 +19,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url: 
+500px_url:
 facebook_url:
 github_url:
 gitlab_url:

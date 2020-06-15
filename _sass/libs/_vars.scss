@@ -28,7 +28,8 @@
 		letter-spacing-alt:	0.25em
 	);
 
-// Redshift Logistics Palette.
+
+// Redshift Logistics Palette. v1
 	$palette: (
 		bg:					#53001d,
 		bg-alt:				#79002b,
@@ -46,7 +47,7 @@
 		accent6:			#7D324C
 	);
 /*
-	// Palette.
+	// Default Palette.
 		$palette: (
 			bg:					#242943,
 			bg-alt:				#2a2f4a,
@@ -63,4 +64,23 @@
 			accent5:			#8ea9e8,
 			accent6:			#87c5a4
 		);
+
+		// Redshift Logistics Palette. v1
+			$palette: (
+				bg:					#53001d,
+				bg-alt:				#79002b,
+				fg:					#ffffff,
+				fg-bold:			#ffffff,
+				fg-light:			rgba(244,244,255,0.2),
+				border:				rgba(212,212,255,0.1),
+				border-bg:			rgba(212,212,255,0.035),
+				highlight:			#d70a53,
+				accent1:			#50051F,
+				accent2:			#610525,
+				accent3:			#390316,
+				accent4:			#610525,
+				accent5:			#9F4968,
+				accent6:			#7D324C
+			);
+
 */
