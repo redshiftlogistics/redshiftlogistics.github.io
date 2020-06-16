@@ -2,7 +2,7 @@
 title: About
 layout: landing
 description: ''
-image:
+image: https://cdn.discordapp.com/attachments/565682402878554112/720536183897063434/image0.jpg
 nav-menu: true
 show_tile: false
 
