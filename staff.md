@@ -119,7 +119,7 @@ show_tile: false
             <img src="https://cdn.discordapp.com/attachments/721739217218043934/722556852587462727/cmdr_echo.png" style="width:100%">
             <div class="container">
               <h2>Cmdr Echo</h2>
-              <p class="title">Agent</p>
+              <p class="title">Senior Agent</p>
               <p><i>"To be a bodyguard is to be a kamikaze pilot. Dedicated"</i></p>
 
             </div>
@@ -133,7 +133,7 @@ show_tile: false
            <img src="https://cdn.discordapp.com/attachments/721739217218043934/722556853028126750/cmdr_gnat.jpg" style="width:100%">
            <div class="container">
              <h2>Cmdr Gnat</h2>
-             <p class="title">Agent</p>
+             <p class="title">Senior Agent</p>
              <p><i>"I just want to live a quiet life."</i></p>
 
            </div>
