@@ -126,35 +126,35 @@ show_tile: false
           </div>
         </div>
 
-       <!--- Row 4 --->
+      <!--- Row 4 --->
 
-       <div class="column">
-         <div class="card">
-           <img src="https://cdn.discordapp.com/attachments/721739217218043934/722556853028126750/cmdr_gnat.jpg" style="width:100%">
-           <div class="container">
-             <h2>Cmdr Gnat</h2>
-             <p class="title">Senior Agent</p>
-             <p><i>"I just want to live a quiet life."</i></p>
+      <div class="column">
+       <div class="card">
+         <img src="https://cdn.discordapp.com/attachments/721739217218043934/722556853028126750/cmdr_gnat.jpg" style="width:100%">
+         <div class="container">
+           <h2>Cmdr Gnat</h2>
+           <p class="title">Senior Agent</p>
+           <p><i>"I just want to live a quiet life."</i></p>
 
-           </div>
          </div>
        </div>
-
-      <!--
+      </div>
 
       <div class="column">
         <div class="card">
-          <img src="https://cdn.discordapp.com/attachments/721739217218043934/722232325588648026/cmdr_pew.jpg" style="width:100%">
+          <img src="https://cdn.discordapp.com/attachments/721739217218043934/726897923560046622/cmdr_craig.png" style="width:100%">
           <div class="container">
-            <h2>Cmdr Pew</h2>
-            <p class="title">Flight Officer</p>
-            <p><i>"Cool story bro."</i></p>
+            <h2>Cmdr Craig</h2>
+            <p class="title">Flight Instructor</p>
+            <p><i>"Rookies are top priority, but after everything else."</i></p>
 
           </div>
         </div>
       </div>
 
-     <div class="column">
+      <!--
+
+      <div class="column">
        <div class="card">
          <img src="https://cdn.discordapp.com/attachments/721739217218043934/722556852587462727/cmdr_echo.png" style="width:100%">
          <div class="container">
@@ -164,11 +164,11 @@ show_tile: false
 
          </div>
        </div>
-     </div>
+      </div>
 
-    -->
+      -->
 
-     <!-- Row 5 --->
+      <!-- Row 5 --->
 
 
   </div>
