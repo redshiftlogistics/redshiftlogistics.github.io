@@ -30,7 +30,7 @@ show_tile: false
          <div class="container">
            <h2>Cmdr Khaotix</h2>
            <p class="title">HR Director</p>
-           <p><i>  </i></p>
+           <p><i>"An artist respects the silence that serves the foundation of creativity"</i></p>
 
          </div>
        </div>
