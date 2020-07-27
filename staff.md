@@ -88,7 +88,7 @@ show_tile: false
       </div>
 
       <!--- Row 3 --->
-
+<!---
           <div class="column">
             <div class="card">
               <img src="https://cdn.discordapp.com/attachments/721739217218043934/721757288125300826/cmdr_canes.png" style="width:100%">
@@ -100,7 +100,7 @@ show_tile: false
               </div>
             </div>
           </div>
-
+--->
 
          <div class="column">
            <div class="card">
