@@ -80,7 +80,7 @@ show_tile: false
           <img src="https://cdn.discordapp.com/attachments/721739217218043934/722226151870955540/cmdr_zak-valentino.png" style="width:100%">
           <div class="container">
             <h2>Cmdr Zak Valentino</h2>
-            <p class="title">Senior Agent</p>
+            <p class="title">Ambassador</p>
             <p><i>"With Redshift Logistics you never have delusions of Grandeur.. you are the Grandeur."</i></p>
 
           </div>
@@ -88,19 +88,18 @@ show_tile: false
       </div>
 
       <!--- Row 3 --->
-<!---
+
           <div class="column">
             <div class="card">
-              <img src="https://cdn.discordapp.com/attachments/721739217218043934/721757288125300826/cmdr_canes.png" style="width:100%">
+              <img src="https://cdn.discordapp.com/attachments/721739217218043934/739473128358543471/cmdr_icarusfirebound.png" style="width:100%">
               <div class="container">
-                <h2>Cmdr Canes</h2>
-                <p class="title">Flight Officer</p>
-                <p><i>"I've never seen an Icy Rock I didn't like, way better then any rock on my finger!"</i></p>
+                <h2>Cmdr IcarusFirebound</h2>
+                <p class="title">Ambassador</p>
+                <p><i></i></p>
 
               </div>
             </div>
           </div>
---->
 
          <div class="column">
            <div class="card">
