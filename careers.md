@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Careers
-description: null
+description: Find your place in the universe
 image: https://cdn.discordapp.com/attachments/650862830278672447/677893674058776595/khaotix-cmdr.png
 show_tile: true
 nav-menu: true
@@ -62,7 +62,7 @@ nav-menu: true
 		</header>
 
     <p><i>
-      We employ both contractors and full time staff, all staff join us in our ingame private group and full time staff join the squadron. There are no activity requirements as we understand burn out can happen with Elite Dangerous. All we ask is for you to be responsive on Discord.
+      We employ both contractors and full time staff, all staff join us in our ingame private group and full time staff join the squadron. There are no activity requirements as we understand burn out can happen with Elite Dangerous. All we ask is for you to be responsive on our primary communications platform Discord.
     </i></p>
     <p>
       We respect all our applicants origins and we will not discriminate based on superpower affiliation. Redshift Logistics is no longer Empire owned and is open to Alliance, Federation and Independent supporters.

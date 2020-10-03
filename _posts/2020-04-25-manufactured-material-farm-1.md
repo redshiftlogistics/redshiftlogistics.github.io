@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Farming Manufactured Materials at Dav's Hope
-description: null
-image: https://cdn.discordapp.com/attachments/678270161995956225/703412573197828147/25-04-2020_02-09-27-m0pmysfu.png
+description: Manufactured material gathering made easy
+image: https://cdn.discordapp.com/attachments/650862830278672447/761955580234432562/davs-hope.png
 show_tile: true
 author: CMDR Payload
 ---

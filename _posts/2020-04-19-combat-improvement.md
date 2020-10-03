@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Combat Improvement
-description: A guide by Tenacious C
+description: A beginner to intermediate guide to combat
 image: https://cdn.discordapp.com/attachments/565682402878554112/597388015916154884/IMG_3f19e3e2-32c8-44e8-8ed8-12192f222de3.png
 show_tile: true
 author: CMDR Tenacious C
