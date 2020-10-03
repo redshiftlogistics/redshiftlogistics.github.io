@@ -3,7 +3,7 @@ layout: post
 title: BGS & You
 description: A guide by Tenacious C
 image: https://cdn.discordapp.com/attachments/678270161995956225/700498043593687080/latest.png
-show_tile: false
+show_tile: true
 author: CMDR Tenacious C
 ---
 
