@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Staff Handbook
 description: null
 image: null

@@ -1,20 +1,11 @@
 ---
-layout: page
+layout: landing
 title: Careers
 description: Find your place in the universe
 image: https://cdn.discordapp.com/attachments/650862830278672447/677893674058776595/khaotix-cmdr.png
 show_tile: true
 nav-menu: true
 ---
-
-<div id="main">
-  <div class="inner">
-    <h1>
-      {{ page.title }}
-    </h1>
-  </div>
-</div>
-
 
 <!-- Main -->
 <div id="main">

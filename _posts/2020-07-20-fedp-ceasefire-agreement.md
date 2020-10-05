@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: update
 title: Home System Ceasefire Agreement
 description: A ceasefire agreement between RLOG and FEDP within their respective home systems.
 image: null
