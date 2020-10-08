@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guardian Modules Handbook
-description: A handbook for unlocking the guardian modules
+description: Unlocking the guardian modules
 image: https://cdn.discordapp.com/attachments/678270161995956225/706864997841764362/GuardianSite13.png
 show_tile: true
 author: CMDR CanesSS1LE
