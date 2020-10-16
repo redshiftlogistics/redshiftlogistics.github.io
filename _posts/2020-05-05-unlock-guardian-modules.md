@@ -3,7 +3,7 @@ layout: post
 title: Guardian Modules Handbook
 description: Unlocking the guardian modules
 image: https://cdn.discordapp.com/attachments/678270161995956225/706864997841764362/GuardianSite13.png
-show_tile: true
+show_tile: false
 author: CMDR CanesSS1LE
 ---
 
