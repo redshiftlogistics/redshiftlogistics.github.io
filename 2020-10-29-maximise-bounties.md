@@ -33,7 +33,7 @@ It's important to know that **merits have a weekly decay**. This means once you 
 
 ## Earning Merits
 
-Be sure to use a commodity hauling ship and that you can do the delivery of the Hudson Garrison Supplies in one or 2 trips (assuming you are not interested in rating 5). A ship that can make a 20LY jump fully laden will definitely speed things up.
+Be sure to use a commodity hauling ship and that you can do the delivery of the Hudson Garrison Supplies in one or two trips (assuming you are not interested in rating 5). A ship that can make a 20LY jump fully laden will definitely speed things up.
 
 Using the galactic powers menu in the bottom right of your ships HUD, pledge allegiance to Zachary Hudson and then plot a course to Gresley Dock, Nanomam. This is 19.41LY from WISE 1506+7027.
 
