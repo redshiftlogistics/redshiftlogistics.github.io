@@ -48,7 +48,7 @@ Now go into your ships galactic powers menu and go to Hudsons control tab.
 _Galactic Powers -> Zachary Hudson -> Control_
 
 
-Pick a close by system from the system alerts section to deliver to, based on the screenshot below the closest system to deliver to is LHS 2088. _Due to constant changes in power play, this route may not be available so always double check what systems need fortifying before plotting your course._
+Pick a close by system from the system alerts section to deliver to. Based on the screenshot below the closest system to deliver to is LHS 2088. _Due to constant changes in power play, this route may not be available so always double check what systems need fortifying before plotting your course._
 
 ![](https://cdn.discordapp.com/attachments/678270161995956225/771484446565072946/29-10-2020_21-07-38-de5tmuy1.png)
 ![](https://cdn.discordapp.com/attachments/678270161995956225/771484479437013062/29-10-2020_21-20-21-ru2rdrni.png)
