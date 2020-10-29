@@ -10,7 +10,7 @@ author: CMDR Payload
 _TL;DR This is an advanced player guide and is intended for those wanting to get a little more money from bounty hunting in our home system. You can haul Hudson Garrison Supplies once or twice a week in order to increase bounty payouts in systems exploited by Zachary Hudson._
 
 Zachary Hudson offers bounty reward bonuses to systems his powerplay exploits. In this case Hudson will offer bounty reward bonuses to bounties turned in in WISE 1506+7027 since it's currently one of his _exploited systems_.
-The bonus payout is determined by your powerplay rating with Hudson, if you increase your rating, the higher bounty bonus. For the purpose of this guide we will focus on delivering Hudson Garrison Supplies to increase our rating.
+The bonus payout is determined by your powerplay rating with Hudson, if you increase your rating the higher bounty bonus. For the purpose of this guide we will focus on delivering Hudson Garrison Supplies to increase our rating.
 
 ## Rating Requirements Table
 
