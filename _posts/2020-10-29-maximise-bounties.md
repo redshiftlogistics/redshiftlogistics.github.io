@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maximising Bounties in WISE 1506+7027
+title: Maximising Bounty Payouts in WISE 1506+7027
 description: Increase your bounty payouts near Sol by leveraging powerplay
 image: null
 show_tile: false
