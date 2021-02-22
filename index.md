@@ -12,4 +12,4 @@ Based at Dobrovolskiy Enterprise in WISE 1506+7027 for its central location to m
 Here at Redshift, we pride ourselves on being an independent company. We are capable of tackling all areas of business regardless of superpower affiliation.
 Within the bubble, RLOG operates a large network of full time and contracted pilots. This approach offers a rapid and hassle-free experience that ensures our contracts are delivered.
 
-_We are an Xbox One PvE focused private player group with a squadron and player minor faction representing us in game. We incorporate elements of roleplay and are more than happy to employ commanders of all skill levels._
+_We are an Xbox and PC player group with a squadron and minor faction representing us in game. We incorporate elements of roleplay and are more than happy to employ commanders of all skill levels._
